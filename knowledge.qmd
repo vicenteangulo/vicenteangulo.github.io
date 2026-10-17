@@ -19,3 +19,4 @@ This section explores methods for transforming engineering experience into struc
 ## Learning Resources
 
 Technical exercises, instructional resources, and knowledge management applications will be developed and published progressively.
+[Explore Technical Resources](resources.qmd)
