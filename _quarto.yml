@@ -1,0 +1,22 @@
+
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Vicente Angulo | Engineering Portfolio"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: cases.qmd
+        text: Case Studies
+      - href: resources.qmd
+        text: Technical Resources
+      - href: about.qmd
+        text: About
+
+format:
+  html:
+    theme: cosmo
+    toc: true
