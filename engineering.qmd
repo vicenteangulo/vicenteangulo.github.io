@@ -54,6 +54,6 @@ mechanical preparation, soft foot identification,
 measurement techniques, shim selection, and
 verification practices.
 
-**Status:** Technical review draft.
+**Status:** Educational technical methodology.
 
 [Explore SOP-001](technical-procedures/SOP-001/index.qmd)
