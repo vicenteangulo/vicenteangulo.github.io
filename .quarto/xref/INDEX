@@ -10,5 +10,14 @@
   },
   "resources.qmd": {
     "resources.html": "9185df84"
+  },
+  "engineering.qmd": {
+    "engineering.html": "60793a1f"
+  },
+  "knowledge.qmd": {
+    "knowledge.html": "dd48e1d8"
+  },
+  "management.qmd": {
+    "management.html": "8f9047b2"
   }
 }

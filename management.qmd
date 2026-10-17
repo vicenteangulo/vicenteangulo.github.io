@@ -1,0 +1,18 @@
+
+---
+title: "Management & Project Delivery"
+---
+
+## Areas of Management Practice
+
+- Project Planning and Execution
+- Maintenance Planning and Scheduling
+- Industrial Shutdown Coordination
+- Maintenance Strategy
+- Risk Management
+- Continuous Improvement
+- Technical Team Leadership
+
+## Applied Management Studies
+
+This section will document planning methodologies, project lessons learned, and maintenance management applications.

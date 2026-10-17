@@ -1,0 +1,21 @@
+
+---
+title: "Knowledge & Technical Education"
+---
+
+## Engineering Knowledge Development
+
+This section explores methods for transforming engineering experience into structured, reusable technical knowledge.
+
+## Areas of Development
+
+- Technical Documentation
+- Standard Operating Procedures
+- Engineering Education
+- Applied Research
+- Knowledge Management
+- IAKS Framework
+
+## Learning Resources
+
+Technical exercises, instructional resources, and knowledge management applications will be developed and published progressively.

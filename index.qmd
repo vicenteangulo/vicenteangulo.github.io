@@ -1,37 +1,68 @@
 
 ---
-title: "Engineering Knowledge & Applied Reliability"
+title: "Engineering, Management & Knowledge"
+title-block-banner: false
+toc: false
 ---
 
 # Vicente Angulo
 
-## Industiral Maintenance | Asset Management | Project Management | Technical education
+**Mechanical & Electrical Engineer | PMP | Red Seal 433A**
 
-Engineering knowledge developed through industrial
-experience, technical investigation, and applied
-maintenance practices involving hands-on experiences.
+*Industrial Maintenance · Reliability Engineering · Project Management · Technical Knowledge*
 
-This independent platform documents engineering case
-studies, maintenance methodologies, asset reliability,
-and technical education resources.
+---
 
-## Technical Areas
+## Engineering Knowledge Through Practice
 
-- Industrial Mechanical Maintenance
-- Rotating Equipment and Shaft Alignment
-- Reliability Engineering and Failure Analysis trought troubleshooting
-- Maintenance Planning and Execution
-- Total Productive Maintenance (TPM)
-- Engineering Knowledge Management
+Welcome to my independent engineering portfolio.
+
+This platform brings together industrial experience, applied engineering methodologies, project management practices, and structured technical knowledge.
+
+Its purpose is to document practical engineering work, examine technical problems, share lessons learned, and develop resources for professional learning.
+
+## Areas of Practice
+
+### Engineering & Reliability
+
+Mechanical systems, rotating equipment, precision maintenance, troubleshooting, failure analysis, and asset reliability.
+
+### Management & Project Delivery
+
+Maintenance planning, project execution, industrial improvement, coordination, technical leadership, and operational performance.
+
+### Knowledge & Technical Education
+
+Technical documentation, engineering case studies, applied research, structured learning, and knowledge management.
 
 ## Engineering Case Studies
 
-Explore technical investigations, practical methods,
-engineering measurements, and lessons learned.
+Case studies examine industrial challenges using documented methodologies, engineering analysis, and verifiable evidence.
 
-## Professional Mission
+Each study aims to explain:
 
-To connect industrial field experience with
-structured engineering knowledge, creating
-practical resources for continuous improvement,
-technical education, and industrial reliability.
+- The engineering problem
+- The operating context
+- The investigation methodology
+- Technical findings and limitations
+- Actions and lessons learned
+
+[Explore Case Studies](cases.qmd)
+
+## Professional Philosophy
+
+Effective engineering connects practical experience with scientific reasoning, structured execution, and continuous learning.
+
+Technical knowledge becomes more valuable when it can be verified, communicated, and applied beyond an individual intervention.
+
+## Explore the Portfolio
+
+- [Engineering](engineering.qmd)
+- [Management](management.qmd)
+- [Knowledge](knowledge.qmd)
+- [Case Studies](cases.qmd)
+- [Professional Profile](about.qmd)
+
+---
+
+*Independent engineering knowledge portfolio.*

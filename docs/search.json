@@ -7,11 +7,53 @@
     "text": "Engineering procedures, technical references, maintenance tools, and educational resources."
   },
   {
-    "objectID": "cases.html",
-    "href": "cases.html",
-    "title": "Engineering Case Studies",
+    "objectID": "knowledge.html",
+    "href": "knowledge.html",
+    "title": "Knowledge & Technical Education",
     "section": "",
-    "text": "This section documents industrial maintenance investigations, engineering methodologies, and practical reliability studies."
+    "text": "This section explores methods for transforming engineering experience into structured, reusable technical knowledge."
+  },
+  {
+    "objectID": "knowledge.html#engineering-knowledge-development",
+    "href": "knowledge.html#engineering-knowledge-development",
+    "title": "Knowledge & Technical Education",
+    "section": "",
+    "text": "This section explores methods for transforming engineering experience into structured, reusable technical knowledge."
+  },
+  {
+    "objectID": "knowledge.html#areas-of-development",
+    "href": "knowledge.html#areas-of-development",
+    "title": "Knowledge & Technical Education",
+    "section": "Areas of Development",
+    "text": "Areas of Development\n\nTechnical Documentation\nStandard Operating Procedures\nEngineering Education\nApplied Research\nKnowledge Management\nIAKS Framework"
+  },
+  {
+    "objectID": "knowledge.html#learning-resources",
+    "href": "knowledge.html#learning-resources",
+    "title": "Knowledge & Technical Education",
+    "section": "Learning Resources",
+    "text": "Learning Resources\nTechnical exercises, instructional resources, and knowledge management applications will be developed and published progressively."
+  },
+  {
+    "objectID": "engineering.html",
+    "href": "engineering.html",
+    "title": "Engineering & Reliability",
+    "section": "",
+    "text": "Mechanical and Electrical Engineering\nIndustrial Maintenance\nRotating Equipment\nPrecision Shaft Alignment\nTroubleshooting and Failure Analysis\nCondition Monitoring\nReliability Engineering"
+  },
+  {
+    "objectID": "engineering.html#areas-of-engineering-practice",
+    "href": "engineering.html#areas-of-engineering-practice",
+    "title": "Engineering & Reliability",
+    "section": "",
+    "text": "Mechanical and Electrical Engineering\nIndustrial Maintenance\nRotating Equipment\nPrecision Shaft Alignment\nTroubleshooting and Failure Analysis\nCondition Monitoring\nReliability Engineering"
+  },
+  {
+    "objectID": "engineering.html#technical-investigations",
+    "href": "engineering.html#technical-investigations",
+    "title": "Engineering & Reliability",
+    "section": "Technical Investigations",
+    "text": "Technical Investigations\nEngineering investigations and case studies will be linked here as they are reviewed and published."
   },
   {
     "objectID": "about.html",
@@ -21,38 +63,73 @@
     "text": "Vicente Angulo\nMechanical and Electrical Engineer | Industrial Maintenance | Reliability | Project Management\nThis portfolio presents my engineering experience, technical investigations, and commitment to continous industrial knowledge development."
   },
   {
+    "objectID": "cases.html",
+    "href": "cases.html",
+    "title": "Engineering Case Studies",
+    "section": "",
+    "text": "This section documents industrial maintenance investigations, engineering methodologies, and practical reliability studies."
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Engineering, Technical and Management Knowledge Portfolio",
+    "title": "Engineering, Management & Knowledge",
     "section": "",
-    "text": "Engineering knowledge developed through industrial experience, technical investigation, and applied maintenance practices involving hands-on experiences.\nThis independent platform documents engineering case studies, maintenance methodologies, asset reliability, and technical education resources.\n\n\n\n\nIndustrial Mechanical Maintenance\nRotating Equipment and Shaft Alignment\nReliability Engineering and Failure Analysis trought troubleshooting\nMaintenance Planning and Execution\nTotal Productive Maintenance (TPM)\nEngineering Knowledge Management\n\n\n\n\nExplore technical investigations, practical methods, engineering measurements, and lessons learned.\n\n\n\nTo connect industrial field experience with structured engineering knowledge, creating practical resources for continuous improvement, technical education, and industrial reliability."
+    "text": "Mechanical & Electrical Engineer | PMP | Red Seal 433A\nIndustrial Maintenance · Reliability Engineering · Project Management · Technical Knowledge\n\n\n\nWelcome to my independent engineering portfolio.\nThis platform brings together industrial experience, applied engineering methodologies, project management practices, and structured technical knowledge.\nIts purpose is to document practical engineering work, examine technical problems, share lessons learned, and develop resources for professional learning.\n\n\n\n\n\nMechanical systems, rotating equipment, precision maintenance, troubleshooting, failure analysis, and asset reliability.\n\n\n\nMaintenance planning, project execution, industrial improvement, coordination, technical leadership, and operational performance.\n\n\n\nTechnical documentation, engineering case studies, applied research, structured learning, and knowledge management.\n\n\n\n\nCase studies examine industrial challenges using documented methodologies, engineering analysis, and verifiable evidence.\nEach study aims to explain:\n\nThe engineering problem\nThe operating context\nThe investigation methodology\nTechnical findings and limitations\nActions and lessons learned\n\nExplore Case Studies\n\n\n\nEffective engineering connects practical experience with scientific reasoning, structured execution, and continuous learning.\nTechnical knowledge becomes more valuable when it can be verified, communicated, and applied beyond an individual intervention.\n\n\n\n\nEngineering\nManagement\nKnowledge\nCase Studies\nProfessional Profile\n\n\nIndependent engineering knowledge portfolio."
   },
   {
-    "objectID": "index.html#maintenance-reliability-asset-management",
-    "href": "index.html#maintenance-reliability-asset-management",
-    "title": "Engineering, Technical and Management Knowledge Portfolio",
+    "objectID": "index.html#engineering-knowledge-through-practice",
+    "href": "index.html#engineering-knowledge-through-practice",
+    "title": "Engineering, Management & Knowledge",
     "section": "",
-    "text": "Engineering knowledge developed through industrial experience, technical investigation, and applied maintenance practices involving hands-on experiences.\nThis independent platform documents engineering case studies, maintenance methodologies, asset reliability, and technical education resources."
+    "text": "Welcome to my independent engineering portfolio.\nThis platform brings together industrial experience, applied engineering methodologies, project management practices, and structured technical knowledge.\nIts purpose is to document practical engineering work, examine technical problems, share lessons learned, and develop resources for professional learning."
   },
   {
-    "objectID": "index.html#technical-areas",
-    "href": "index.html#technical-areas",
-    "title": "Engineering, Technical and Management Knowledge Portfolio",
+    "objectID": "index.html#areas-of-practice",
+    "href": "index.html#areas-of-practice",
+    "title": "Engineering, Management & Knowledge",
     "section": "",
-    "text": "Industrial Mechanical Maintenance\nRotating Equipment and Shaft Alignment\nReliability Engineering and Failure Analysis trought troubleshooting\nMaintenance Planning and Execution\nTotal Productive Maintenance (TPM)\nEngineering Knowledge Management"
+    "text": "Mechanical systems, rotating equipment, precision maintenance, troubleshooting, failure analysis, and asset reliability.\n\n\n\nMaintenance planning, project execution, industrial improvement, coordination, technical leadership, and operational performance.\n\n\n\nTechnical documentation, engineering case studies, applied research, structured learning, and knowledge management."
   },
   {
     "objectID": "index.html#engineering-case-studies",
     "href": "index.html#engineering-case-studies",
-    "title": "Engineering, Technical and Management Knowledge Portfolio",
+    "title": "Engineering, Management & Knowledge",
     "section": "",
-    "text": "Explore technical investigations, practical methods, engineering measurements, and lessons learned."
+    "text": "Case studies examine industrial challenges using documented methodologies, engineering analysis, and verifiable evidence.\nEach study aims to explain:\n\nThe engineering problem\nThe operating context\nThe investigation methodology\nTechnical findings and limitations\nActions and lessons learned\n\nExplore Case Studies"
   },
   {
-    "objectID": "index.html#professional-mission",
-    "href": "index.html#professional-mission",
-    "title": "Engineering, Technical and Management Knowledge Portfolio",
+    "objectID": "index.html#professional-philosophy",
+    "href": "index.html#professional-philosophy",
+    "title": "Engineering, Management & Knowledge",
     "section": "",
-    "text": "To connect industrial field experience with structured engineering knowledge, creating practical resources for continuous improvement, technical education, and industrial reliability."
+    "text": "Effective engineering connects practical experience with scientific reasoning, structured execution, and continuous learning.\nTechnical knowledge becomes more valuable when it can be verified, communicated, and applied beyond an individual intervention."
+  },
+  {
+    "objectID": "index.html#explore-the-portfolio",
+    "href": "index.html#explore-the-portfolio",
+    "title": "Engineering, Management & Knowledge",
+    "section": "",
+    "text": "Engineering\nManagement\nKnowledge\nCase Studies\nProfessional Profile\n\n\nIndependent engineering knowledge portfolio."
+  },
+  {
+    "objectID": "management.html",
+    "href": "management.html",
+    "title": "Management & Project Delivery",
+    "section": "",
+    "text": "Project Planning and Execution\nMaintenance Planning and Scheduling\nIndustrial Shutdown Coordination\nMaintenance Strategy\nRisk Management\nContinuous Improvement\nTechnical Team Leadership"
+  },
+  {
+    "objectID": "management.html#areas-of-management-practice",
+    "href": "management.html#areas-of-management-practice",
+    "title": "Management & Project Delivery",
+    "section": "",
+    "text": "Project Planning and Execution\nMaintenance Planning and Scheduling\nIndustrial Shutdown Coordination\nMaintenance Strategy\nRisk Management\nContinuous Improvement\nTechnical Team Leadership"
+  },
+  {
+    "objectID": "management.html#applied-management-studies",
+    "href": "management.html#applied-management-studies",
+    "title": "Management & Project Delivery",
+    "section": "Applied Management Studies",
+    "text": "Applied Management Studies\nThis section will document planning methodologies, project lessons learned, and maintenance management applications."
   }
 ]

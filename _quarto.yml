@@ -4,19 +4,35 @@ project:
   output-dir: docs
 
 website:
-  title: "Vicente Angulo | Engineering Portfolio"
+  title: "Vicente Angulo"
+  description: "Engineering, Management and Knowledge Portfolio"
+
   navbar:
+    background: "#172A39"
+    foreground: "#FFFFFF"
     left:
       - href: index.qmd
         text: Home
+      - href: engineering.qmd
+        text: Engineering
+      - href: management.qmd
+        text: Management
+      - href: knowledge.qmd
+        text: Knowledge
       - href: cases.qmd
         text: Case Studies
-      - href: resources.qmd
-        text: Technical Resources
       - href: about.qmd
         text: About
+
+  page-footer:
+    center: "© 2026 Vicente Angulo. All rights reserved."
 
 format:
   html:
     theme: cosmo
     toc: true
+    linkcolor: "#236789"
+    fontsize: 1.05em
+
+execute:
+  freeze: auto
