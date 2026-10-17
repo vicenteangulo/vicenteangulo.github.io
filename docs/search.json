@@ -1,5 +1,131 @@
 [
   {
+    "objectID": "technical-procedures/SOP-001/index.html",
+    "href": "technical-procedures/SOP-001/index.html",
+    "title": "SOP-001 | Motor Soft Foot Detection & Correction",
+    "section": "",
+    "text": "NoteDocument Control\n\n\n\nDocument ID: SOP-001\nRevision: 0.1 — Technical Review Draft\nDocument Type: Independent Educational Engineering Procedure\nPrepared by: Vicente Angulo\nDiscipline: Mechanical Engineering / Precision Maintenance\nApplication: Horizontal rotating machinery\nTechnical Status: Under review\nThis document presents an independent educational methodology developed from engineering knowledge and practical maintenance experience.\nIt is not a site-approved SOP, OEM instruction, or authorization to perform industrial work."
+  },
+  {
+    "objectID": "technical-procedures/SOP-001/index.html#parallel-soft-foot",
+    "href": "technical-procedures/SOP-001/index.html#parallel-soft-foot",
+    "title": "SOP-001 | Motor Soft Foot Detection & Correction",
+    "section": "2.1 Parallel Soft Foot",
+    "text": "2.1 Parallel Soft Foot\nParallel soft foot occurs when a machine foot has a relatively uniform gap between its lower surface and the supporting structure.\nPotential causes include:\n\nMissing or inadequate shims\nUneven mounting elevations\nImproperly prepared mounting surfaces\n\nThe correction normally involves establishing appropriate support using clean, correctly dimensioned shim material."
+  },
+  {
+    "objectID": "technical-procedures/SOP-001/index.html#angular-soft-foot",
+    "href": "technical-procedures/SOP-001/index.html#angular-soft-foot",
+    "title": "SOP-001 | Motor Soft Foot Detection & Correction",
+    "section": "2.2 Angular Soft Foot",
+    "text": "2.2 Angular Soft Foot\nAngular soft foot occurs when the machine foot and mounting surface are not parallel.\nPossible causes include:\n\nTwisted machine frame\nUneven mounting pads\nDeformed machine feet\nLocal surface irregularities\n\nAn angular condition requires investigation of contact geometry rather than automatically adding a uniform shim.\n\n\n\n\n\n\nFigure 2: Parallel versus angular soft foot: representative contact geometry and shim correction concepts.\n\n\n\nFigure 2 distinguishes a relatively uniform gap from partial or angular contact. The drawing is conceptual and not to scale."
+  },
+  {
+    "objectID": "technical-procedures/SOP-001/index.html#other-contributing-conditions",
+    "href": "technical-procedures/SOP-001/index.html#other-contributing-conditions",
+    "title": "SOP-001 | Motor Soft Foot Detection & Correction",
+    "section": "2.3 Other Contributing Conditions",
+    "text": "2.3 Other Contributing Conditions\nSoft-foot-like measurements may also arise from:\n\nPipe or conduit strain\nMechanical distortion\nImproper fastening practices\nBent feet or damaged foundations\nDirt, corrosion, paint, or burrs\nMeasurement setup instability\n\nThese conditions should be investigated before selecting a corrective action."
+  },
+  {
+    "objectID": "technical-procedures/SOP-001/index.html#mounting-surface-inspection",
+    "href": "technical-procedures/SOP-001/index.html#mounting-surface-inspection",
+    "title": "SOP-001 | Motor Soft Foot Detection & Correction",
+    "section": "4.1 Mounting Surface Inspection",
+    "text": "4.1 Mounting Surface Inspection\nInspect motor feet, mounting pads, and supporting surfaces for:\n\nBurrs and raised edges\nCorrosion\nPaint accumulation\nForeign materials\nMechanical deformation\nDamaged or unstable shim packs\n\nRemove contamination using methods approved for the component and installation.\nAvoid removing structural material or changing mounting geometry without an engineering assessment."
+  },
+  {
+    "objectID": "technical-procedures/SOP-001/index.html#fasteners-and-adjustment-system",
+    "href": "technical-procedures/SOP-001/index.html#fasteners-and-adjustment-system",
+    "title": "SOP-001 | Motor Soft Foot Detection & Correction",
+    "section": "4.2 Fasteners and Adjustment System",
+    "text": "4.2 Fasteners and Adjustment System\nInspect:\n\nHold-down bolts\nThreads and washers\nJacking screws\nMounting brackets\nSupport structure\n\nUse fasteners specified for the particular installation.\nFastener grade, dimensions, preload, and torque must follow applicable engineering documentation."
+  },
+  {
+    "objectID": "technical-procedures/SOP-001/index.html#initial-contact-evaluation",
+    "href": "technical-procedures/SOP-001/index.html#initial-contact-evaluation",
+    "title": "SOP-001 | Motor Soft Foot Detection & Correction",
+    "section": "4.3 Initial Contact Evaluation",
+    "text": "4.3 Initial Contact Evaluation\nObserve whether the machine rocks or exhibits uneven contact.\nDocument:\n\nMachine foot identification\nExisting shim configuration\nVisible gaps\nMounting surface condition\nInitial fastening condition\n\nDo not remove existing shim packs indiscriminately.\nPreserve the initial configuration for evaluation."
+  },
+  {
+    "objectID": "technical-procedures/SOP-001/index.html#objective",
+    "href": "technical-procedures/SOP-001/index.html#objective",
+    "title": "SOP-001 | Motor Soft Foot Detection & Correction",
+    "section": "6.1 Objective",
+    "text": "6.1 Objective\nIdentify visible or measurable gaps between a machine foot and its supporting surface."
+  },
+  {
+    "objectID": "technical-procedures/SOP-001/index.html#general-method",
+    "href": "technical-procedures/SOP-001/index.html#general-method",
+    "title": "SOP-001 | Motor Soft Foot Detection & Correction",
+    "section": "6.2 General Method",
+    "text": "6.2 General Method\n\nEstablish the approved safe condition.\nInspect the mounting interface.\nRecord the existing shim arrangement.\nEvaluate the contact condition.\nUse an appropriate feeler gauge to investigate accessible gaps.\nRecord the location and measured thickness.\nCompare readings across the machine feet.\nIdentify potential parallel or angular conditions.\n\nA localized gap does not necessarily describe the complete deformation of the machine."
+  },
+  {
+    "objectID": "technical-procedures/SOP-001/index.html#interpretation",
+    "href": "technical-procedures/SOP-001/index.html#interpretation",
+    "title": "SOP-001 | Motor Soft Foot Detection & Correction",
+    "section": "6.3 Interpretation",
+    "text": "6.3 Interpretation\nUniform gap: Possible parallel soft foot.\nWedge-shaped or partial gap: Possible angular soft foot.\nVariable or inconsistent readings: Investigate mechanical loading, fastening, and measurement repeatability."
+  },
+  {
+    "objectID": "technical-procedures/SOP-001/index.html#objective-1",
+    "href": "technical-procedures/SOP-001/index.html#objective-1",
+    "title": "SOP-001 | Motor Soft Foot Detection & Correction",
+    "section": "7.1 Objective",
+    "text": "7.1 Objective\nObserve movement at individual machine feet as specified hold-down fasteners are released and resecured.\n\n\n\n\n\n\nFigure 3: Representative dial indicator setup to detect vertical movement at a motor mounting foot.\n\n\n\nFigure 3 illustrates the instrument placement. Use a mechanically independent, stable reference."
+  },
+  {
+    "objectID": "technical-procedures/SOP-001/index.html#general-method-1",
+    "href": "technical-procedures/SOP-001/index.html#general-method-1",
+    "title": "SOP-001 | Motor Soft Foot Detection & Correction",
+    "section": "7.2 General Method",
+    "text": "7.2 General Method\n\nMount the dial indicator on a stable reference.\nPosition the measuring tip to detect vertical movement of the selected machine foot.\nEstablish the approved initial fastening condition.\nZero the indicator.\nRelease the selected fastener according to the approved measurement procedure.\nRecord the indicated displacement.\nRestore the specified fastening condition.\nRepeat the measurement where necessary.\nEvaluate the remaining feet systematically."
+  },
+  {
+    "objectID": "technical-procedures/SOP-001/index.html#interpretation-1",
+    "href": "technical-procedures/SOP-001/index.html#interpretation-1",
+    "title": "SOP-001 | Motor Soft Foot Detection & Correction",
+    "section": "7.3 Interpretation",
+    "text": "7.3 Interpretation\nRecorded movement can indicate insufficient support or installation distortion.\nHowever, displacement measurements must be interpreted considering:\n\nMachine frame stiffness\nBolt-loading sequence\nIndicator mounting stability\nExternal mechanical loads\nRepeatability of the measurement\n\nA single reading should not automatically be treated as an exact required shim thickness."
+  },
+  {
+    "objectID": "technical-procedures/SOP-001/index.html#instrument-preparation",
+    "href": "technical-procedures/SOP-001/index.html#instrument-preparation",
+    "title": "SOP-001 | Motor Soft Foot Detection & Correction",
+    "section": "8.1 Instrument Preparation",
+    "text": "8.1 Instrument Preparation\nWhen using an Easy-Laser E420 or another compatible alignment instrument:\n\nReview the applicable instrument manual.\nInspect measuring units and mounting accessories.\nConfirm equipment condition and calibration requirements.\nInstall brackets on suitable clean surfaces.\nConfirm mechanical stability of the measurement arrangement.\nEnter the required geometric dimensions.\n\n\n\n\n\n\n\nFigure 4: Conceptual laser-assisted soft foot assessment showing sensor placement and measurement workflow.\n\n\n\nFigure 4 is a teaching illustration, not a reproduction of the Easy-Laser E420 interface. Example display numbers are illustrative, with no stated engineering units or acceptance status."
+  },
+  {
+    "objectID": "technical-procedures/SOP-001/index.html#soft-foot-measurement",
+    "href": "technical-procedures/SOP-001/index.html#soft-foot-measurement",
+    "title": "SOP-001 | Motor Soft Foot Detection & Correction",
+    "section": "8.2 Soft Foot Measurement",
+    "text": "8.2 Soft Foot Measurement\nAccess the instrument’s supported soft foot measurement program.\nFollow the manufacturer’s documented sequence for measuring each machine foot.\nRecord:\n\nFoot identification\nInstrument reading\nMeasurement units\nFastening condition\nRepeatability observations\n\nThe reading may reflect elastic movement and mechanical loading, not simply an open gap."
+  },
+  {
+    "objectID": "technical-procedures/SOP-001/index.html#verification",
+    "href": "technical-procedures/SOP-001/index.html#verification",
+    "title": "SOP-001 | Motor Soft Foot Detection & Correction",
+    "section": "8.3 Verification",
+    "text": "8.3 Verification\nRepeat the measurement after correction.\nInvestigate substantial differences between successive readings before accepting the result.\nInstrument-specific controls, measuring positions, and commands must be verified against the actual device manual."
+  },
+  {
+    "objectID": "technical-procedures/SOP-001/index.html#engineering-requirements",
+    "href": "technical-procedures/SOP-001/index.html#engineering-requirements",
+    "title": "SOP-001 | Motor Soft Foot Detection & Correction",
+    "section": "9.1 Engineering Requirements",
+    "text": "9.1 Engineering Requirements\nShim packs should provide stable, repeatable, and appropriate machine support.\nSelect materials and dimensions suitable for the installation.\nVerify:\n\nThickness\nFlatness\nCleanliness\nSurface condition\nFoot coverage\nProper seating\n\n\n\n\n\n\n\nFigure 5: Comparison of clean, supported shim packs and improper irregular shim arrangements.\n\n\n\nFigure 5 compares correct contact principles with poor support. The illustrations are conceptual; evaluate actual shim thickness and contact using applicable specifications."
+  },
+  {
+    "objectID": "technical-procedures/SOP-001/index.html#installation-principles",
+    "href": "technical-procedures/SOP-001/index.html#installation-principles",
+    "title": "SOP-001 | Motor Soft Foot Detection & Correction",
+    "section": "9.2 Installation Principles",
+    "text": "9.2 Installation Principles\n\nPreserve the original shim record.\nAvoid damaged or burred shims.\nMinimize unnecessary stacking.\nUse suitable precut shim material.\nEnsure stable support beneath each foot.\nReassess mounting contact after adjustment.\nApply the specified fastening procedure.\nRecheck measurements after correction.\n\nThe number of permitted shims and their arrangement must be established using applicable technical requirements.\nDo not adopt a universal maximum shim count without evaluating the installation."
+  },
+  {
     "objectID": "notes.html",
     "href": "notes.html",
     "title": "Engineering Notes & Applied Learning",

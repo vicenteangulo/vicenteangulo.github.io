@@ -13,7 +13,7 @@ description: "Engineering methods for identifying, measuring, correcting, and ve
 toc: true
 toc-depth: 3
 number-sections: true
-draft: true
+draft: false
 ---
 
 ::: {.callout-note}

@@ -56,4 +56,4 @@ verification practices.
 
 **Status:** Educational technical methodology.
 
-[Explore SOP-001](technical-procedures/SOP-001/index.qmd)
+[Explore SOP-001](technical-procedures/SOP-001/index.html)
