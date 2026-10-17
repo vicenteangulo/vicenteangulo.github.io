@@ -32,7 +32,7 @@
     "href": "knowledge.html#learning-resources",
     "title": "Knowledge & Technical Education",
     "section": "Learning Resources",
-    "text": "Learning Resources\nTechnical exercises, instructional resources, and knowledge management applications will be developed and published progressively."
+    "text": "Learning Resources\nTechnical exercises, instructional resources, and knowledge management applications will be developed and published progressively. Explore Technical Resources"
   },
   {
     "objectID": "engineering.html",
@@ -60,7 +60,7 @@
     "href": "about.html",
     "title": "Professional Profile",
     "section": "",
-    "text": "Vicente Angulo\nMechanical and Electrical Engineer | Industrial Maintenance | Reliability | Project Management\nThis portfolio presents my engineering experience, technical investigations, and commitment to continous industrial knowledge development."
+    "text": "Vicente Angulo\nMechanical and Electrical Engineer | Industrial Maintenance | Reliability | Project Management\nThis portfolio presents my engineering experience, technical investigations, and commitment to continuous industrial knowledge development."
   },
   {
     "objectID": "cases.html",
@@ -131,5 +131,12 @@
     "title": "Management & Project Delivery",
     "section": "Applied Management Studies",
     "text": "Applied Management Studies\nThis section will document planning methodologies, project lessons learned, and maintenance management applications."
+  },
+  {
+    "objectID": "notes.html",
+    "href": "notes.html",
+    "title": "Engineering Notes & Applied Learning",
+    "section": "",
+    "text": "This section documents independent technical learning, engineering investigations, practical methods, and concepts developed through professional experience.\nNotes may evolve into engineering case studies, technical procedures, or educational resources.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
   }
 ]

@@ -19,5 +19,11 @@
   },
   "management.qmd": {
     "management.html": "8f9047b2"
+  },
+  "notes/001-soft-foot/index.qmd": {
+    "index.html": "7ca3c3a1"
+  },
+  "notes.qmd": {
+    "notes.html": "3ec7dc8a"
   }
 }

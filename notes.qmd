@@ -1,0 +1,19 @@
+
+---
+title: "Engineering Notes & Applied Learning"
+subtitle: "Questions, investigations, methods and lessons learned"
+listing:
+  contents: "notes/**/index.qmd"
+  type: grid
+  grid-columns: 2
+  sort: "date desc"
+  categories: true
+toc: false
+---
+
+This section documents independent technical learning,
+engineering investigations, practical methods,
+and concepts developed through professional experience.
+
+Notes may evolve into engineering case studies,
+technical procedures, or educational resources.
