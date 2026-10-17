@@ -16,3 +16,44 @@ title: "Engineering & Reliability"
 ## Technical Investigations
 
 Engineering investigations and case studies will be linked here as they are reviewed and published.
+
+
+## Precision Maintenance & Shaft Alignment
+
+An engineering knowledge series focused on
+mechanical preparation, precision measurement,
+controlled adjustment, and technical verification
+of rotating machinery.
+
+### Technical Development Portfolio
+
+| Reference | Technical Subject | Development Status |
+|---|---|---|
+| ECS-001 | Precision Shaft Alignment | In development |
+| SOP-001 | Motor Soft Foot Correction | Technical review |
+| SOP-002 | Coupling Rough Alignment | Technical review |
+| SOP-003 | Laser Shaft Alignment | Technical review |
+| TR-001 | Alignment Tolerance Criteria | Source verification |
+
+These publications are being developed from
+professional learning, engineering analysis,
+and practical maintenance experience.
+
+Public versions will use independently reviewed
+technical content and non-confidential examples.
+
+They are not substitutes for OEM instructions,
+site-approved procedures, or applicable
+safety requirements.
+
+
+### SOP-001 — Motor Soft Foot Detection & Correction
+
+An applied engineering methodology covering
+mechanical preparation, soft foot identification,
+measurement techniques, shim selection, and
+verification practices.
+
+**Status:** Technical review draft.
+
+[Explore SOP-001](technical-procedures/SOP-001/index.qmd)

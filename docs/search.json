@@ -1,73 +1,31 @@
 [
   {
-    "objectID": "resources.html",
-    "href": "resources.html",
-    "title": "Technical Resources",
+    "objectID": "notes.html",
+    "href": "notes.html",
+    "title": "Engineering Notes & Applied Learning",
     "section": "",
-    "text": "Engineering procedures, technical references, maintenance tools, and educational resources."
+    "text": "This section documents independent technical learning, engineering investigations, practical methods, and concepts developed through professional experience.\nNotes may evolve into engineering case studies, technical procedures, or educational resources.\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "knowledge.html",
-    "href": "knowledge.html",
-    "title": "Knowledge & Technical Education",
+    "objectID": "management.html",
+    "href": "management.html",
+    "title": "Management & Project Delivery",
     "section": "",
-    "text": "This section explores methods for transforming engineering experience into structured, reusable technical knowledge."
+    "text": "Project Planning and Execution\nMaintenance Planning and Scheduling\nIndustrial Shutdown Coordination\nMaintenance Strategy\nRisk Management\nContinuous Improvement\nTechnical Team Leadership"
   },
   {
-    "objectID": "knowledge.html#engineering-knowledge-development",
-    "href": "knowledge.html#engineering-knowledge-development",
-    "title": "Knowledge & Technical Education",
+    "objectID": "management.html#areas-of-management-practice",
+    "href": "management.html#areas-of-management-practice",
+    "title": "Management & Project Delivery",
     "section": "",
-    "text": "This section explores methods for transforming engineering experience into structured, reusable technical knowledge."
+    "text": "Project Planning and Execution\nMaintenance Planning and Scheduling\nIndustrial Shutdown Coordination\nMaintenance Strategy\nRisk Management\nContinuous Improvement\nTechnical Team Leadership"
   },
   {
-    "objectID": "knowledge.html#areas-of-development",
-    "href": "knowledge.html#areas-of-development",
-    "title": "Knowledge & Technical Education",
-    "section": "Areas of Development",
-    "text": "Areas of Development\n\nTechnical Documentation\nStandard Operating Procedures\nEngineering Education\nApplied Research\nKnowledge Management\nIAKS Framework"
-  },
-  {
-    "objectID": "knowledge.html#learning-resources",
-    "href": "knowledge.html#learning-resources",
-    "title": "Knowledge & Technical Education",
-    "section": "Learning Resources",
-    "text": "Learning Resources\nTechnical exercises, instructional resources, and knowledge management applications will be developed and published progressively. Explore Technical Resources"
-  },
-  {
-    "objectID": "engineering.html",
-    "href": "engineering.html",
-    "title": "Engineering & Reliability",
-    "section": "",
-    "text": "Mechanical and Electrical Engineering\nIndustrial Maintenance\nRotating Equipment\nPrecision Shaft Alignment\nTroubleshooting and Failure Analysis\nCondition Monitoring\nReliability Engineering"
-  },
-  {
-    "objectID": "engineering.html#areas-of-engineering-practice",
-    "href": "engineering.html#areas-of-engineering-practice",
-    "title": "Engineering & Reliability",
-    "section": "",
-    "text": "Mechanical and Electrical Engineering\nIndustrial Maintenance\nRotating Equipment\nPrecision Shaft Alignment\nTroubleshooting and Failure Analysis\nCondition Monitoring\nReliability Engineering"
-  },
-  {
-    "objectID": "engineering.html#technical-investigations",
-    "href": "engineering.html#technical-investigations",
-    "title": "Engineering & Reliability",
-    "section": "Technical Investigations",
-    "text": "Technical Investigations\nEngineering investigations and case studies will be linked here as they are reviewed and published."
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "Professional Profile",
-    "section": "",
-    "text": "Vicente Angulo\nMechanical and Electrical Engineer | Industrial Maintenance | Reliability | Project Management\nThis portfolio presents my engineering experience, technical investigations, and commitment to continuous industrial knowledge development."
-  },
-  {
-    "objectID": "cases.html",
-    "href": "cases.html",
-    "title": "Engineering Case Studies",
-    "section": "",
-    "text": "This section documents industrial maintenance investigations, engineering methodologies, and practical reliability studies."
+    "objectID": "management.html#applied-management-studies",
+    "href": "management.html#applied-management-studies",
+    "title": "Management & Project Delivery",
+    "section": "Applied Management Studies",
+    "text": "Applied Management Studies\nThis section will document planning methodologies, project lessons learned, and maintenance management applications."
   },
   {
     "objectID": "index.html",
@@ -112,31 +70,80 @@
     "text": "Engineering\nManagement\nKnowledge\nCase Studies\nProfessional Profile\n\n\nIndependent engineering knowledge portfolio."
   },
   {
-    "objectID": "management.html",
-    "href": "management.html",
-    "title": "Management & Project Delivery",
+    "objectID": "cases.html",
+    "href": "cases.html",
+    "title": "Engineering Case Studies",
     "section": "",
-    "text": "Project Planning and Execution\nMaintenance Planning and Scheduling\nIndustrial Shutdown Coordination\nMaintenance Strategy\nRisk Management\nContinuous Improvement\nTechnical Team Leadership"
+    "text": "This section documents industrial maintenance investigations, engineering methodologies, and practical reliability studies."
   },
   {
-    "objectID": "management.html#areas-of-management-practice",
-    "href": "management.html#areas-of-management-practice",
-    "title": "Management & Project Delivery",
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "Professional Profile",
     "section": "",
-    "text": "Project Planning and Execution\nMaintenance Planning and Scheduling\nIndustrial Shutdown Coordination\nMaintenance Strategy\nRisk Management\nContinuous Improvement\nTechnical Team Leadership"
+    "text": "Vicente Angulo\nMechanical and Electrical Engineer | Industrial Maintenance | Reliability | Project Management\nThis portfolio presents my engineering experience, technical investigations, and commitment to continuous industrial knowledge development."
   },
   {
-    "objectID": "management.html#applied-management-studies",
-    "href": "management.html#applied-management-studies",
-    "title": "Management & Project Delivery",
-    "section": "Applied Management Studies",
-    "text": "Applied Management Studies\nThis section will document planning methodologies, project lessons learned, and maintenance management applications."
+    "objectID": "engineering.html",
+    "href": "engineering.html",
+    "title": "Engineering & Reliability",
+    "section": "",
+    "text": "Mechanical and Electrical Engineering\nIndustrial Maintenance\nRotating Equipment\nPrecision Shaft Alignment\nTroubleshooting and Failure Analysis\nCondition Monitoring\nReliability Engineering"
   },
   {
-    "objectID": "notes.html",
-    "href": "notes.html",
-    "title": "Engineering Notes & Applied Learning",
+    "objectID": "engineering.html#areas-of-engineering-practice",
+    "href": "engineering.html#areas-of-engineering-practice",
+    "title": "Engineering & Reliability",
     "section": "",
-    "text": "This section documents independent technical learning, engineering investigations, practical methods, and concepts developed through professional experience.\nNotes may evolve into engineering case studies, technical procedures, or educational resources.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Mechanical and Electrical Engineering\nIndustrial Maintenance\nRotating Equipment\nPrecision Shaft Alignment\nTroubleshooting and Failure Analysis\nCondition Monitoring\nReliability Engineering"
+  },
+  {
+    "objectID": "engineering.html#technical-investigations",
+    "href": "engineering.html#technical-investigations",
+    "title": "Engineering & Reliability",
+    "section": "Technical Investigations",
+    "text": "Technical Investigations\nEngineering investigations and case studies will be linked here as they are reviewed and published."
+  },
+  {
+    "objectID": "engineering.html#precision-maintenance-shaft-alignment",
+    "href": "engineering.html#precision-maintenance-shaft-alignment",
+    "title": "Engineering & Reliability",
+    "section": "Precision Maintenance & Shaft Alignment",
+    "text": "Precision Maintenance & Shaft Alignment\nAn engineering knowledge series focused on mechanical preparation, precision measurement, controlled adjustment, and technical verification of rotating machinery.\n\nTechnical Development Portfolio\n\n\n\nReference\nTechnical Subject\nDevelopment Status\n\n\n\n\nECS-001\nPrecision Shaft Alignment\nIn development\n\n\nSOP-001\nMotor Soft Foot Correction\nTechnical review\n\n\nSOP-002\nCoupling Rough Alignment\nTechnical review\n\n\nSOP-003\nLaser Shaft Alignment\nTechnical review\n\n\nTR-001\nAlignment Tolerance Criteria\nSource verification\n\n\n\nThese publications are being developed from professional learning, engineering analysis, and practical maintenance experience.\nPublic versions will use independently reviewed technical content and non-confidential examples.\nThey are not substitutes for OEM instructions, site-approved procedures, or applicable safety requirements.\n\n\nSOP-001 — Motor Soft Foot Detection & Correction\nAn applied engineering methodology covering mechanical preparation, soft foot identification, measurement techniques, shim selection, and verification practices.\nStatus: Technical review draft.\nExplore SOP-001"
+  },
+  {
+    "objectID": "knowledge.html",
+    "href": "knowledge.html",
+    "title": "Knowledge & Technical Education",
+    "section": "",
+    "text": "This section explores methods for transforming engineering experience into structured, reusable technical knowledge."
+  },
+  {
+    "objectID": "knowledge.html#engineering-knowledge-development",
+    "href": "knowledge.html#engineering-knowledge-development",
+    "title": "Knowledge & Technical Education",
+    "section": "",
+    "text": "This section explores methods for transforming engineering experience into structured, reusable technical knowledge."
+  },
+  {
+    "objectID": "knowledge.html#areas-of-development",
+    "href": "knowledge.html#areas-of-development",
+    "title": "Knowledge & Technical Education",
+    "section": "Areas of Development",
+    "text": "Areas of Development\n\nTechnical Documentation\nStandard Operating Procedures\nEngineering Education\nApplied Research\nKnowledge Management\nIAKS Framework"
+  },
+  {
+    "objectID": "knowledge.html#learning-resources",
+    "href": "knowledge.html#learning-resources",
+    "title": "Knowledge & Technical Education",
+    "section": "Learning Resources",
+    "text": "Learning Resources\nTechnical exercises, instructional resources, and knowledge management applications will be developed and published progressively. Explore Technical Resources"
+  },
+  {
+    "objectID": "resources.html",
+    "href": "resources.html",
+    "title": "Technical Resources",
+    "section": "",
+    "text": "Engineering procedures, technical references, maintenance tools, and educational resources."
   }
 ]

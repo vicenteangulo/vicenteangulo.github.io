@@ -1,0 +1,51 @@
+
+---
+title: "EN-001 | Understanding Soft Foot"
+description: "Mechanical principles, diagnosis, correction and alignment implications."
+author: "Vicente Angulo"
+date: "2026-10-17"
+categories:
+  - Mechanical Maintenance
+  - Precision Alignment
+  - Applied Learning
+
+draft: true
+---
+
+## Engineering Question
+
+How does soft foot affect the repeatability and
+accuracy of precision shaft alignment?
+
+## Mechanical Principles
+
+Soft foot occurs when machine feet do not establish
+appropriate contact with their mounting surfaces
+under defined installation conditions.
+
+Possible contributors include:
+
+- Uneven mounting surfaces
+- Improper shimming
+- Machine frame distortion
+- Mechanical stress during tightening
+
+## Engineering Investigation
+
+This note will compare soft-foot identification
+methods, measurements, correction practices
+and relevant technical references.
+
+## Practical Application
+
+A reproducible training exercise will be developed
+using non-confidential or simulated equipment data.
+
+## Lessons Learned
+
+Pending technical validation and development.
+
+## References
+
+Manufacturer guidance and relevant engineering
+references will be incorporated after review.

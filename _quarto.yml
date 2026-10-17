@@ -19,6 +19,8 @@ website:
         text: Management
       - href: knowledge.qmd
         text: Knowledge
+      - href: notes.qmd
+        text: Engineering Notes 
       - href: cases.qmd
         text: Case Studies
       - href: about.qmd
@@ -36,3 +38,5 @@ format:
 
 execute:
   freeze: auto
+
+draft-mode: unlinked
