@@ -25,7 +25,7 @@ website:
         text: About
 
   page-footer:
-    center: "© 2026 Vicente Angulo. All rights reserved."
+    center: "Copyright 2026 Vicente Angulo. All rights reserved."
 
 format:
   html:
